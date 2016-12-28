@@ -1,0 +1,19 @@
+{
+  "name": "patelhi-styles-loader",
+  "version": "1.0.0",
+  "description": "Forked form angular-styles-loader to return string instead of array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelhi/angular2-styles-loader.git"
+  },
+  "author": "Hiten Patel <hitenpatel01@outlook.com> (hitenpatel.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patelhi/angular2-styles-loader/issues"
+  },
+  "homepage": "https://github.com/patelhi/angular2-styles-loader#readme"
+}

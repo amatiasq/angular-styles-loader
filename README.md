@@ -1,2 +1,2 @@
-# angular-styles-loader
-A webpack loader to import styles for angular components
+# patelhi-styles-loader
+Forked form angular-styles-loader to return string instead of array.
